@@ -1,0 +1,27 @@
+#contact #submit1:hover,#jaxinput,#newsletter button,.album .hover li,.audio-list-icon,.audio-progress .audio-play-bar,.blog-post:hover .hover,.comment-read b,.comment-write b,.dropdown-menu>li>a:hover,.event-feed a.btn:hover,.event-feed.latest .day,.events_showcase .dropdown-menu li a:hover,.events_showcase .event-feed a.btn,.jp-pause,.jp-play,.jp-volume-bar-value,.latest-post a.btn:hover,.more-events a,.nav-search,.nav-search button,.navbar-brand:before,.navbar-default .navbar-nav>li.active a:before,.navbar-default .navbar-nav>li:hover a:before,.news-feed-btn a:hover,.photo-item figcaption,.store-item a:hover,.tags li a,.track .track_buy,.video-feed a,blockqoute:before,h1:before {
+    background-color:white
+}
+
+#jaxmessages {
+    border-right:#17d95b solid 4px!important 
+}
+
+.blog-post .hover,.flex-caption,footer .container {
+    border-color:#17d95b;
+}
+
+.chat-borda {
+    border-top:4px solid #17d95b;
+    border-left:4px solid #17d95b;
+    border-right:4px solid #17d95b;
+    border-bottom:4px solid #17d95b; 
+}
+
+#contact b,#contact h3,#contact i,.admin-post p,.album .hover h2,.album-detail-content h4,.album-purchase a,.album-tracks .track .track-head .track_time,.album-tracks .track .track-head .track_title,.album-tracks .track .track_buy a,.album-tracks .track-head div,.artist a,.artist-detail-content h3,.breadcrumb h5,.comment-read h4,.comment-reply .comment-ul i,.comment-ul i,.event-feed h5,.event-feed.latest b,.event-feed.latest h5 a,.event-feed2 h5,.event_calender td,.events_showcase h3 span,.events_showcase h5,.events_showcase h6 span,.jp-playlist h5,.latest-post h2 a:hover,.latest-post h2:hover,.latest-post li span,.logo span,.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:focus,.navbar-default .navbar-nav>.active>a:hover,.news-feed a:hover,.news-feed h2:hover,.news-feed li span,.photo-filter li a:hover,.recent-post p,.related-album h4,.sitemap li a:hover,.social li:hover a,.store-item h3,.titulo-n a:hover,.titulo-n h2:hover,.top-carouselnav a,.track .track_release span,.track .track_title,.track_listen a i,.yamm-content a,.yamm-content h4,footer h4 span {
+    color:#17d95b;
+}
+
+#audio-player {
+    border-bottom:yellow solid 2px;
+    border-top:#17d95b solid 2px;
+}
